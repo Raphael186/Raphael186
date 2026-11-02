@@ -53,9 +53,11 @@ Neste GitHub, registro minha evolução por meio de projetos acadêmicos e exerc
 
 Estou construindo minha base projeto a projeto: entender o problema, dividir a lógica em etapas, testar uma solução e explicar o que fiz. Tenho interesse em programação, dados e tecnologia aplicada ao cotidiano. Se algum projeto despertar sua curiosidade, fique à vontade para abrir uma issue ou conversar pelo LinkedIn.
 
+## Minha atividade no GitHub
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Raphael186&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Estatísticas públicas do GitHub de Raphael186" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael186&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens presentes nos repositórios públicos de Raphael186" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raphael186&theme=github_dark" alt="Estatísticas públicas do GitHub de Raphael186" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raphael186&theme=github_dark" alt="Linguagens dos repositórios públicos de Raphael186" />
 </div>
 
 <p align="center"><sub>Em constante aprendizado — um commit e uma ideia de cada vez.</sub></p>
