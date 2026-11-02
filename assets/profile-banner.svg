@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Raphael Luiz — Análise e Desenvolvimento de Sistemas</title>
+  <desc id="desc">Banner em azul-marinho e ciano para perfil técnico, com referências visuais a código, dados e sistemas.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset=".55" stop-color="#101e34"/><stop offset="1" stop-color="#172b48"/></linearGradient>
+    <linearGradient id="glow" x1="0" x2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+    <radialGradient id="spot"><stop offset="0" stop-color="#38bdf8" stop-opacity=".26"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#8aa4c7" stroke-opacity=".10" stroke-width="1"/></pattern>
+    <style>
+      .name{font:700 50px Inter,Arial,sans-serif;fill:#f8fafc;letter-spacing:.3px}.role{font:500 20px Inter,Arial,sans-serif;fill:#bfcee1;letter-spacing:1.7px}.tag{font:600 13px Inter,Arial,sans-serif;fill:#dbeafe;letter-spacing:1.5px}.code{font:500 17px 'Fira Code',Consolas,monospace;fill:#b7cce1}.line{stroke:url(#glow);stroke-width:3;stroke-linecap:round}.dot{fill:#34d399}
+    </style>
+  </defs>
+  <rect width="1200" height="320" rx="25" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="25" fill="url(#grid)"/>
+  <circle cx="1030" cy="165" r="280" fill="url(#spot)"/>
+  <path d="M0 277 C225 230 348 326 570 275 S926 217 1200 260" fill="none" stroke="#38bdf8" stroke-opacity=".15" stroke-width="2"/>
+  <path d="M0 292 C250 245 365 335 610 286 S938 237 1200 276" fill="none" stroke="#34d399" stroke-opacity=".13" stroke-width="2"/>
+  <rect x="56" y="52" width="6" height="205" rx="3" fill="url(#glow)"/>
+  <text x="88" y="131" class="name">Raphael Luiz</text>
+  <text x="90" y="174" class="role">ANÁLISE E DESENVOLVIMENTO DE SISTEMAS</text>
+  <line x1="90" y1="204" x2="398" y2="204" class="line"/>
+  <circle cx="90" cy="204" r="5" class="dot"/>
+  <text x="90" y="239" class="tag">PYTHON  ·  DADOS  ·  SOFTWARE</text>
+  <g transform="translate(825 70)">
+    <rect x="0" y="0" width="300" height="180" rx="16" fill="#0c1727" fill-opacity=".82" stroke="#29435f" stroke-width="1.5"/>
+    <circle cx="22" cy="22" r="5" fill="#fb7185"/><circle cx="40" cy="22" r="5" fill="#fbbf24"/><circle cx="58" cy="22" r="5" fill="#34d399"/>
+    <text x="22" y="65" class="code"><tspan fill="#34d399">&gt;</tspan> aprender()</text>
+    <text x="22" y="97" class="code"><tspan fill="#38bdf8">&gt;</tspan> construir()</text>
+    <text x="22" y="129" class="code"><tspan fill="#a78bfa">&gt;</tspan> evoluir()</text>
+    <rect x="22" y="151" width="8" height="16" rx="2" fill="#34d399"><animate attributeName="opacity" values="1;.15;1" dur="1.3s" repeatCount="indefinite"/></rect>
+  </g>
+  <text x="1110" y="292" text-anchor="end" class="tag" fill="#91a8c2">PORTFÓLIO • 2026</text>
+</svg>
